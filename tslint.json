@@ -1,0 +1,5 @@
+{
+  "rules": {
+    "no-direct-getting-html-element": true
+  }
+}
